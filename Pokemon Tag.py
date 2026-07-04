@@ -20,7 +20,7 @@ def main():
     
 # Step 2: Deiced computer's pokemon != players pokemon
     while True:
-        comp_list = random.choice([pokemon_stats[0], pokemon_stats[1], pokemon_stats[2], pokemon_stats[3]])
+        comp_list = random.choice([pokemon_stats[0], pokemon_stats[1], pokemon_stats[2])
 
         if comp_list != player_list:
             break
@@ -247,7 +247,7 @@ def choose_pokemon(pokemon_list):
         n = input("\nChoose your pokemon: ")
         print()
 
-        if n.isdigit and n in ["1", "2", "3", "4"]:
+        if n.isdigit and n in ["1", "2", "3"]:
             n = int(n)
 
             for pokemon_index in range(len(pokemon_list)):
