@@ -12,13 +12,13 @@ A terminal-based Pokémon battle game in Python featuring turn-based combat, hea
 - Inacuaracy in Attacks
 - Rule-based computer AI
 
-#### Rules and Instructions:
+### Rules and Instructions:
 - Speed of the Pokemons decide who'll get the first turn, Faster pokemon ===> First Turn
 - While Attacking there is a 10% chance of a critiacal hit that doubles the damage
 - Every Attack has an inacuracy of ± 2 HP
 - Every pokemon has a maximum of 3 Heals
 
-##### Future Updates:
+### Future Updates:
 - Pokemon Evolvolutions
 - Effects while attacking and healing
 - Defense, to decrease the affect of Attack
@@ -30,7 +30,7 @@ A terminal-based Pokémon battle game in Python featuring turn-based combat, hea
 ## Disclaimer
 
 This is a non-commercial fan project created for educational purposes while learning Python through Harvard's CS50P. Pokémon and related names are trademarks of Nintendo, Game Freak, and The Pokémon Company.
-
+<br>
 Date created: 7 July 2026
 <br>
   "This project is built while learning python through CS50p after week 2"
