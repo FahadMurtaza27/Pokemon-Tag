@@ -31,6 +31,8 @@ A terminal-based Pokémon battle game in Python featuring turn-based combat, hea
 
 This is a non-commercial fan project created for educational purposes while learning Python through Harvard's CS50P. Pokémon and related names are trademarks of Nintendo, Game Freak, and The Pokémon Company.
 <br>
+<br>
+<br>
 Date created: 7 July 2026
 <br>
   "This project is built while learning python through CS50p after week 2"
